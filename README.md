@@ -8,25 +8,25 @@ A beginner-friendly interactive guide for marketers who want to use [Claude Code
 
 ## What You Will Learn
 
-1. **Why Claude Code for marketers** — How it differs from using Claude in a browser, and why it matters for consistent marketing outputs
-2. **Key concepts in plain English** — Terminal, Git, GitHub, Markdown, VS Code, and Node.js explained for non-technical users
-3. **Step-by-step setup** — Install Node.js, VS Code, and Claude Code with Mac/Windows instructions
-4. **Understanding key files** — CLAUDE.md (your company context), SKILL.md (skill instructions), and the .claude/ folder
-5. **What skills are and how they work** — The analogy, the anatomy, and the flow
-6. **25+ marketing skills** — Pre-built skills for positioning, copywriting, launches, email sequences, ad creative, GTM engineering, and more
-7. **Installing the skills** — Three methods: ask Claude, download and copy, or terminal commands
-8. **Your first marketing task** — A guided walkthrough from setup to structured output
+1. **Why Claude Code for marketers** – How it differs from using Claude in a browser, and why it matters for consistent marketing outputs
+2. **Key concepts in plain English** – Terminal, Git, GitHub, Markdown, VS Code, and Node.js explained for non-technical users
+3. **Step-by-step setup** – Install Node.js, VS Code, and Claude Code with Mac/Windows instructions
+4. **Understanding key files** – CLAUDE.md (your company context), SKILL.md (skill instructions), and the .claude/ folder
+5. **What skills are and how they work** – The analogy, the anatomy, and the flow
+6. **25+ marketing skills** – Pre-built skills for positioning, copywriting, launches, email sequences, ad creative, GTM engineering, and more
+7. **Installing the skills** – Three methods: ask Claude, download and copy, or terminal commands
+8. **Your first marketing task** – A guided walkthrough from setup to structured output
 
 ---
 
 ## Marketing Agent Skills
 
-This guide is the companion resource for the **[Marketing Agent Skills](https://github.com/realjaymes/marketingagentskills)** repo — 25+ open-source skills built for Claude Code that cover:
+This guide is the companion resource for the **[Marketing Agent Skills](https://github.com/realjaymes/marketingagentskills)** repo – 25+ open-source skills built for Claude Code that cover:
 
-- **Strategy & Positioning** — product-positioning, product-messaging, product-launch-gtm, marketing-advantages, icp-persona, customer-segments
-- **Content & Copy** — landing-page, saas-landing-pages, ad-creative, press-release, copy-anatomy, ai-humanizer, case-study-builder
-- **Growth & Experimentation** — experimentation, marketing-product-ideas, performance-marketing, lifecycle-marketing-campaigns, product-onboarding-activation
-- **GTM Engineering & Automation** — clay-gtm-outbound, n8n-automation, remotion
+- **Strategy & Positioning** – product-positioning, product-messaging, product-launch-gtm, marketing-advantages, icp-persona, customer-segments
+- **Content & Copy** – landing-page, saas-landing-pages, ad-creative, press-release, copy-anatomy, ai-humanizer, case-study-builder
+- **Growth & Experimentation** – experimentation, marketing-product-ideas, performance-marketing, lifecycle-marketing-campaigns, product-onboarding-activation
+- **GTM Engineering & Automation** – clay-gtm-outbound, n8n-automation, remotion
 
 Install them with one prompt inside Claude Code:
 
